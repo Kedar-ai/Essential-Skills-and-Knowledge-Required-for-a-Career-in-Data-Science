@@ -1,0 +1,2 @@
+# Intro to Machine Learning
+To excel as a data scientist, it is crucial to have a robust understanding of machine learning concepts like supervised, unsupervised, and deep learning. Moreover, data scientists must be skilled in leveraging machine learning libraries like Scikit-Learn and TensorFlow to build and deploy effective models. These proficiencies enable data scientists to extract meaningful insights from complex data and create value for their organizations.
